@@ -1,9 +1,10 @@
-### Olá 👋
-
-Muito prazer eu sou a Wanessa e estou cursando Analise e Desenvolvimento de Sistemas 😄. <br><br>
+### Olá! 😄 
+<br>
+Muito prazer eu sou a Wanessa e estou cursando Analise e Desenvolvimento de Sistemas. <br><br>
 Em 2018 fiz um curso técnico em informática que despertou a minha vontade e curiosidade para aprender e entender mais sobre o mundo da tecnologia.<br>
-Acredito que não tem a idade correta ou o momento certo para ingressar na área, mas sim esforço e vontate de apreder. Afinal de contas estamos em contante evolução e não podemos parar de buscar o conhecimento.<br><br>
+:round_pushpin:	Acredito que não tem a idade correta ou o momento certo para ingressar na área, mas sim esforço e vontate de apreder. Afinal de contas estamos em contante evolução e não podemos parar de buscar o conhecimento.:books:<br><br>
 Atualmente trabalho em uma startup na cidade onde eu moro e pretento continuar estudando mais a cada dia, tanto para o meu desenvolvimento pessoal quanto profissional. :desktop_computer:
+
 
 
 <!--
